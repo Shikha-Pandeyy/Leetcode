@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
