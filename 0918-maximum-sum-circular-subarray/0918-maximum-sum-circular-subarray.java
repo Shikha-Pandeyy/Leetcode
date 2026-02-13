@@ -1,14 +1,12 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
-        int totalSum = 0;
+        int totalSum = nums[0];
 
         int currSum = nums[0];
         int maxSum = nums[0];
 
         int currmin = nums[0];
         int minSum= nums[0];
-
-        totalSum= nums[0];
 
         for(int i =1; i<nums.length; i++){
 
