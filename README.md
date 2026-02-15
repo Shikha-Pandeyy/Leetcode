@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -45,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0067-add-binary) |
+| [0567-permutation-in-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0567-permutation-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bit Manipulation
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
