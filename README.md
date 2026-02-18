@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1025-divisor-game) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0567-permutation-in-string) |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
