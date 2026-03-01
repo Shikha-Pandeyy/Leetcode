@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1154-day-of-the-year) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
