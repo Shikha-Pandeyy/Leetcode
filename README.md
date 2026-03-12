@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -168,8 +169,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
