@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1025-divisor-game) |
