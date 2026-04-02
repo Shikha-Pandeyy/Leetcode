@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0326-power-of-three) |
 | [1025-divisor-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1154-day-of-the-year) |
 ## Dynamic Programming
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0326-power-of-three) |
 ## Tree
 |  |
 | ------- |
