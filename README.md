@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0733-flood-fill) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
