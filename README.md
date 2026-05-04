@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0045-jump-game-ii) |
+| [0860-lemonade-change](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0860-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
