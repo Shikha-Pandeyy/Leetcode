@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0733-flood-fill) |
 ## Backtracking
 |  |
