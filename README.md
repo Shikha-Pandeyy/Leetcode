@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0994-rotting-oranges) |
 | [1109-corporate-flight-bookings](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
