@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1025-divisor-game) |
