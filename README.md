@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0523-continuous-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0326-power-of-three) |
+| [0523-continuous-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1154-day-of-the-year) |
 ## Dynamic Programming
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0724-find-pivot-index) |
