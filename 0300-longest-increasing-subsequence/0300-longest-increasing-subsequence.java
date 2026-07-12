@@ -18,7 +18,8 @@ class Solution {
 
         if( dp[i][prev+1]!=-1) return dp[i][prev+1];
 
-        int pick=0;int nt= nt=helper(nums,i+1,prev,dp);
+        int pick=0;
+        int nt=nt=helper(nums,i+1,prev,dp);
 
         if(prev==-1||nums[prev]<nums[i])
         {
