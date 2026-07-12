@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
