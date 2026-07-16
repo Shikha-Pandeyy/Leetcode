@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1154-day-of-the-year) |
 | [1408-string-matching-in-an-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
