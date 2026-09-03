@@ -316,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
