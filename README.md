@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0383-ransom-note) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
