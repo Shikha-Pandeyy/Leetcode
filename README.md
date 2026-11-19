@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0383-ransom-note) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0455-assign-cookies) |
