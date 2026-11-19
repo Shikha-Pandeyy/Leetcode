@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Linked List
 |  |
