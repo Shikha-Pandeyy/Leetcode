@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0200-number-of-islands) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0383-ransom-note) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -374,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
