@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Bit Manipulation
 |  |
 | ------- |
