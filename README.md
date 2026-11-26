@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1154-day-of-the-year) |
+| [3360-stone-removal-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3360-stone-removal-game](https://github.com/Shikha-Pandeyy/Leetcode/tree/master/3360-stone-removal-game) |
 ## String Matching
 |  |
 | ------- |
